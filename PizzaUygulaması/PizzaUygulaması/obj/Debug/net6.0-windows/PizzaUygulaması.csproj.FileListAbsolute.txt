@@ -1,0 +1,17 @@
+C:\Users\Administrator\Desktop\ozan_195050008\PizzaUygulaması\PizzaUygulaması\bin\Debug\net6.0-windows\PizzaUygulaması.exe
+C:\Users\Administrator\Desktop\ozan_195050008\PizzaUygulaması\PizzaUygulaması\bin\Debug\net6.0-windows\PizzaUygulaması.deps.json
+C:\Users\Administrator\Desktop\ozan_195050008\PizzaUygulaması\PizzaUygulaması\bin\Debug\net6.0-windows\PizzaUygulaması.runtimeconfig.json
+C:\Users\Administrator\Desktop\ozan_195050008\PizzaUygulaması\PizzaUygulaması\bin\Debug\net6.0-windows\PizzaUygulaması.dll
+C:\Users\Administrator\Desktop\ozan_195050008\PizzaUygulaması\PizzaUygulaması\bin\Debug\net6.0-windows\ref\PizzaUygulaması.dll
+C:\Users\Administrator\Desktop\ozan_195050008\PizzaUygulaması\PizzaUygulaması\bin\Debug\net6.0-windows\PizzaUygulaması.pdb
+C:\Users\Administrator\Desktop\ozan_195050008\PizzaUygulaması\PizzaUygulaması\obj\Debug\net6.0-windows\PizzaUygulaması.Form1.resources
+C:\Users\Administrator\Desktop\ozan_195050008\PizzaUygulaması\PizzaUygulaması\obj\Debug\net6.0-windows\PizzaUygulaması.Properties.Resources.resources
+C:\Users\Administrator\Desktop\ozan_195050008\PizzaUygulaması\PizzaUygulaması\obj\Debug\net6.0-windows\PizzaUygulaması.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\ozan_195050008\PizzaUygulaması\PizzaUygulaması\obj\Debug\net6.0-windows\PizzaUygulaması.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\ozan_195050008\PizzaUygulaması\PizzaUygulaması\obj\Debug\net6.0-windows\PizzaUygulaması.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\ozan_195050008\PizzaUygulaması\PizzaUygulaması\obj\Debug\net6.0-windows\PizzaUygulaması.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\ozan_195050008\PizzaUygulaması\PizzaUygulaması\obj\Debug\net6.0-windows\PizzaUygulaması.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\ozan_195050008\PizzaUygulaması\PizzaUygulaması\obj\Debug\net6.0-windows\PizzaUygulaması.dll
+C:\Users\Administrator\Desktop\ozan_195050008\PizzaUygulaması\PizzaUygulaması\obj\Debug\net6.0-windows\ref\PizzaUygulaması.dll
+C:\Users\Administrator\Desktop\ozan_195050008\PizzaUygulaması\PizzaUygulaması\obj\Debug\net6.0-windows\PizzaUygulaması.pdb
+C:\Users\Administrator\Desktop\ozan_195050008\PizzaUygulaması\PizzaUygulaması\obj\Debug\net6.0-windows\PizzaUygulaması.genruntimeconfig.cache
